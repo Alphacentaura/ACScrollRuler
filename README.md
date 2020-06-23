@@ -1,7 +1,7 @@
 # ACScrollRuler
 
- ![image](https://github.com/Alphacentaura/ACScrollRuler/tempLow.png)
+ ![image](https://github.com/Alphacentaura/ACScrollRuler/blob/master/tempLow.png)
   
- ![image](https://github.com/Alphacentaura/ACScrollRuler/tempNormal.png)
+ ![image](https://github.com/Alphacentaura/ACScrollRuler/blob/master/tempNormal.png)
     
- ![image](https://github.com/Alphacentaura/ACScrollRuler/tempHigh.png)
+ ![image](https://github.com/Alphacentaura/ACScrollRuler/blob/master/tempHigh.png)
