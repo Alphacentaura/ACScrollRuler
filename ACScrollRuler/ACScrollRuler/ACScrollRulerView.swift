@@ -244,7 +244,7 @@ class ACScrollRulerView: UIView {
         self.addSubview(self.lazyTemperatureView)
         lazyTemperatureView.valueDisplayViewColor = temperatureNormalColor
         
-        lazyTriangle.frame = CGRect.init(x: lazyTemperatureView.frame.width/2-0.5 - CGFloat(TriangleWidth)/2, y: lazyTemperatureView.frame.maxY, width: CGFloat(TriangleWidth), height: CGFloat(TriangleWidth))
+        lazyTriangle.frame = CGRect.init(x: lazyTemperatureView.frame.width/2-0.5 - CGFloat(TriangleWidth)/2, y: lazyTemperatureView.frame.maxY-1, width: CGFloat(TriangleWidth), height: CGFloat(TriangleWidth))
         lazyTemperatureView.addSubview(self.lazyTriangle)
         self.lazyTriangle.valueDisplayViewColor = temperatureNormalColor
         
